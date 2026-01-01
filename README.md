@@ -30,3 +30,4 @@
   </tbody>
 </table>
 
+An asterisk (*) denotes the highest score achieved in the corresponding course.
