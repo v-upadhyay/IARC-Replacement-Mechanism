@@ -9,44 +9,24 @@
 > ii. Sedrica : For Self Driving Cars.
 
 
-## Mathematics
+<table style="width:100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width:50%;">
+    <col style="width:50%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Mathematics</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Calculus I</td><td>Multivariable Calculus</td></tr>
+    <tr><td>Calculus II</td><td>Lie Groups, Lie Algebras & Representations</td></tr>
+    <tr><td>Differential Equation I</td><td>Real Analysis</td></tr>
+    <tr><td>Differential Equation II</td><td>Measure Theory</td></tr>
+    <tr><td>Linear Algebra</td><td>Functional Analysis</td></tr>
+    <tr><td>Numerical Analysis</td><td>Partial Differential Equations</td></tr>
+  </tbody>
+</table>
 
-| | |
-| :--- | :--- |
-| Calculus I | Multivariable Calculus |
-| Calculus II | Lie Groups, Lie Algebras & Representations |
-| Differential Equation I | Real Analysis |
-| Differential Equation II | Measure Theory |
-| Linear Algebra | Functional Analysis |
-| Numerical Analysis | Partial Differential Equations |
-
-<br>
-
-## Control & Optimization
-
-| | |
-| :--- | :--- |
-| Signal and Feedback Systems | Optimization |
-| Nonlinear Dynamics | Optimization for Large-Scale Machine Learning |
-| Control of Nonlinear Dynamical Systems | Random Process in Learning & Control <small>(Highest Scorer)</small> |
-| Differential Geometric Method in Controls | Optimal Control Systems |
-| Analytical & Geometric Mechanics | Estimation on Lie Groups |
-| High Energy Physics and Systems <small>(Highest Scorer)</small> | |
-
-<br>
-
-## Aerospace Engineering
-
-| | |
-| :--- | :--- |
-| Introduction to Flight Mechanics | Vibrations and Structural Dynamics |
-| Thermodynamics and Propulsion | Aerospace Propulsion |
-| Incompressible Fluid Mechanics | Aerodynamics |
-| Solid Mechanics | Flight Mechanics II |
-| Aircraft Propulsion | Aerodynamics Laboratory |
-| Compressible Fluid Mechanics | Aircraft Propulsion Laboratory |
-| Aerospace Structural Mechanics | Aircraft Design |
-| Spaceflight Mechanics | Modeling and Simulation |
-| Aerospace Measurements Laboratory | Navigation and Guidance |
-| Control Theory | Control Systems Laboratory |
-| Aircraft Structures Laboratory | |
