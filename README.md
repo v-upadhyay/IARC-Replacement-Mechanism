@@ -30,4 +30,4 @@
   </tbody>
 </table>
 
-An asterisk "*" denotes the highest score achieved in the corresponding course.
+An asterisk "<sup>†</sup>" indicates that the corresponding course was completed with the highest score.
