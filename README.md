@@ -7,15 +7,3 @@
 > i. Aerove: For Unmanned Aerial Vehicles.
 > 
 > ii. Sedrica : For Self Driving Cars.
-
-# Coursework
-
-```text
-                                  MATHEMATICS
-
-Calculus I                                Multivariable Calculus
-Calculus II                               Lie Groups, Lie Algebras & Representations
-Differential Equation I                   Real Analysis
-Differential Equation II                  Measure Theory
-Linear Algebra                            Functional Analysis
-Numerical Analysis                        Partial Differential Equations
