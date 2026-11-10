@@ -7,27 +7,3 @@
 > i. Aerove: For Unmanned Aerial Vehicles.
 > 
 > ii. Sedrica : For Self Driving Cars.
-
-
-<table style="width:100%; table-layout: fixed;">
-  <colgroup>
-    <col style="width:50%;">
-    <col style="width:50%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Mathematics</th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Calculus I</td><td>Multivariable Calculus</td></tr>
-    <tr><td>Calculus II</td><td>Lie Groups, Lie Algebras & Representations</td></tr>
-    <tr><td>Differential Equation I</td><td>Real Analysis</td></tr>
-    <tr><td>Differential Equation II</td><td>Measure Theory</td></tr>
-    <tr><td>Linear Algebra</td><td>Functional Analysis</td></tr>
-    <tr><td>Numerical Analysis</td><td>Partial Differential Equations</td></tr>
-  </tbody>
-</table>
-
-An asterisk "<sup>†</sup>" indicates that the corresponding course was completed with the highest score.
